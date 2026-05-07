@@ -1,0 +1,25 @@
+{
+  "name": "carrotarmy",
+  "version": "1.0.0",
+  "description": "Studying Web Develop in CarrotArmy",
+  "homepage": "https://github.com/khwan0917/CarrotArmy#readme",
+  "bugs": {
+    "url": "https://github.com/khwan0917/CarrotArmy/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khwan0917/CarrotArmy.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.3.0",
+    "globals": "^17.6.0"
+  }
+}
